@@ -1,7 +1,7 @@
 **Shinkansen-Bullet-Train-Experience**
 - This aim of this project is to predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train
-- This notebook file contains the python code, classical machine learning method to predict the overall experince of passenger
-- The data set inlcude for datasets e.g., train and test: 
+- This notebook file contains the python code, classical machine learning "The random forestt cross-validation" method to predict the overall experince of passenger
+- The data set used in train and test (not uploaded here): 
 "Traveldata_train.csv"
 "Surveydata_train.csv"
 "Traveldata_test.csv"
