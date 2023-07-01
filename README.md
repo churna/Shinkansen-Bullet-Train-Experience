@@ -7,4 +7,4 @@
 "Traveldata_test.csv"
 "Surveydata_test.csv"
 - Traveldata and Surveydata data set contain the details about passenger and their survey
-- The targe get feature is 'Overall_Expereince
+- The target feature is 'Overall_Expereince
